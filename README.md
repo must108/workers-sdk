@@ -14,6 +14,8 @@
   ·
   <a href="https://discord.cloudflare.com/">Join Discord</a>
   <br>
+  <sup>Please include reproduction steps and package versions when reporting problems.</sup>
+  <br>
   <br>
 </p>
 
